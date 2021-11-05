@@ -18,7 +18,7 @@ To install, first get python3 installed on your machine.
 ## OSX python3 installation
 
 - install brew [instructions here](https://brew.sh/)
-- then install a python version manager `brew install python`
+- then install python `brew install python`
 - further reading: <https://docs.python-guide.org/starting/install3/osx/>
 
 ## install dependencies with pip3
