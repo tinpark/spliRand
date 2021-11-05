@@ -70,9 +70,9 @@ Then run this line of code
 
 `python3 splitRand.py --file="examples/Herve_klezmer1.wav" --thresh=-60 --msl=5 --iters=4`
 
-`python3 splitRand.py --iters 6 --file="examples/Drum160Fight.wav" --thresh=-10 --msl=5`
+`python3 splitRand.py --iters=6 --file="examples/Drum160Fight.wav" --thresh=-10 --msl=5`
 
-`python3 splitRand.py --iters 6 --file="examples/martin.wav" --thresh=-30 --msl=5`
+`python3 splitRand.py --iters-12 --file="examples/martin.wav" --thresh=-30 --msl=5`
 
 # Credits:
 Parts of this script were hacked from the following pages, many thanks especially to:
