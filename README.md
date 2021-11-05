@@ -56,7 +56,7 @@ once installed, note the path to this script so that you can call it on the comm
 # Arguments
 Add arguments to refine the splitting process and define the number of new random files:
 
-`python3 path/to/splitRand.py --file=path/to/waveFile.wav --thresh=-60 --msl=10 --fdIn=5 --fdOut=10 --iters= 16`
+`python3 path/to/splitRand.py --file=path/to/waveFile.wav --thresh=-60 --msl=10 --fdIn=5 --fdOut=10 --iters=16`
 
 The above will split your audio at whenever it's dropped to **-60dB** for **10ms** or more, a fadein of *5ms* and fade out of *10ms* will be applied to all slices and 16 random iterations of the short segments files will be concatenated together to make 16 new `.wav` files.
 
