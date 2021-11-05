@@ -53,6 +53,12 @@ once installed, note the path to this script so that you can call it on the comm
 
 `python3 path/to/splitRand.py --file=path/to/waveFile.wav`
 
+# Download the package
+
+Either download the zip of this repository or clone it:
+
+`git clone https://github.com/tinpark/spliRand.git`
+
 # Arguments
 Add arguments to refine the splitting process and define the number of new random files:
 
